@@ -42,7 +42,7 @@ password\_checker/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/ilyasshaik1/Password-Breach-Checker
+git clone [https://github.com/ilyasshaik1/Password-Breach-Checker](https://github.com/ilyasshaik1/Password-Breach-Checker.git)
 cd password-checker
 ````
 
